@@ -1,0 +1,10 @@
+D:\VisualStudioProject\Projects\CountManager\CountManager\bin\Debug\CountManager.exe.config
+D:\VisualStudioProject\Projects\CountManager\CountManager\bin\Debug\CountManager.exe
+D:\VisualStudioProject\Projects\CountManager\CountManager\bin\Debug\CountManager.pdb
+D:\VisualStudioProject\Projects\CountManager\CountManager\obj\Debug\CountManager.csprojAssemblyReference.cache
+D:\VisualStudioProject\Projects\CountManager\CountManager\obj\Debug\CountManager.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\Projects\CountManager\CountManager\obj\Debug\CountManager.exe
+D:\VisualStudioProject\Projects\CountManager\CountManager\obj\Debug\CountManager.pdb
+D:\VisualStudioProject\Projects\CountManager\CountManager\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudioProject\Projects\CountManager\CountManager\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudioProject\Projects\CountManager\CountManager\obj\Debug\CountManager.csproj.CopyComplete

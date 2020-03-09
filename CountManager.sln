@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountManager", "CountManager\CountManager.csproj", "{30F59AF6-4290-4638-9DBC-68AABF63D49E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountManagerClient", "CountManagerClient\CountManagerClient.csproj", "{630309CF-9E06-47DD-B9C6-01BEF720A93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F59AF6-4290-4638-9DBC-68AABF63D49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F59AF6-4290-4638-9DBC-68AABF63D49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F59AF6-4290-4638-9DBC-68AABF63D49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F59AF6-4290-4638-9DBC-68AABF63D49E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630309CF-9E06-47DD-B9C6-01BEF720A93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630309CF-9E06-47DD-B9C6-01BEF720A93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630309CF-9E06-47DD-B9C6-01BEF720A93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630309CF-9E06-47DD-B9C6-01BEF720A93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C002C90-7A89-467E-A277-E783339FB195}
+	EndGlobalSection
+EndGlobal
